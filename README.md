@@ -31,7 +31,7 @@ Feel free to reach out to me for collaborations or opportunities:
 
 ## Website
 
-This repository is published as a GitHub Pages website. You can view the live site at: [paste link]
+This repository is published as a GitHub Pages website. You can view the live site at: https://salamboy719.github.io/Portfolio/
 
 ## Technologies Used
 
