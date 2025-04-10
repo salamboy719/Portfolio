@@ -10,7 +10,7 @@ Experienced data analyst and machine learning engineer with expertise in Python,
 
 Here are some of the key projects featured on my portfolio:
 
-1. **Resume and Cover Letter Generator**: A Streamlit app that generates resume and cover letter using AI. 
+1. **Income Prediction**: A Streamlit machine learning app that predicts income of the user. 
 
 2. **Password Generator App**: A Streamlit app that generates random password for the user depending on their preference for letters, numbers or symbols using Python. 
   
