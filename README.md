@@ -1,4 +1,4 @@
-# [paste name here] - Python Programmer and Data Analyst Portfolio
+# Abdulsalam Moyosore Ajibola - Python Programmer and Data Analyst Portfolio
 
 Welcome to my data analyst and machine learning portfolio! This repository contains the source code for my personal website, showcasing my skills, projects, and professional information.
 
@@ -27,7 +27,7 @@ Here are some of the key projects featured on my portfolio:
 ## Contact
 
 Feel free to reach out to me for collaborations or opportunities:
-- GitHub: [paste link]
+- GitHub: https://github.com/salamboy719
 
 ## Website
 
